@@ -8,10 +8,6 @@
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
-## Credit
-
-Modified from Scotch.io's auth tutorial
-
 
 # Full Stack Beyonce Fan Site
 In this assignment, I created a full stack to-do list application.
