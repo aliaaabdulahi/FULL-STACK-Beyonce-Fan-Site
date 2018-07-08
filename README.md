@@ -12,6 +12,7 @@
 # Full Stack Beyonce Fan Site
 In this assignment, I created a fan site for Beyonce fans to interact with one another about the artist we all love.
 
+![alt tag](preview.png)
 
 ## How It's Made:
 
@@ -23,10 +24,8 @@ I used Mongo DB to save the user information, information about the messages, an
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Vacation-app:** https://github.com/aliaabdulahi/FULL-STACK-Vacation-Express
+**FULL STACK ShareYourSecrets:** https://github.com/aliaabdulahi/FULLSTACK-SecretShare
 
-**Kanye-west-app:** https://github.com/aliaabdulahi/Kanye-ExFans-Express
+**FULL STACK Vacation-app:** https://github.com/aliaabdulahi/FULL-STACK-Vacation-Express
 
-**Instagram-api-oauth:** https://github.com/aliaabdulahi/instagram-API-OAuth
-
-
+**FULL STACK Kanye-west-app:** https://github.com/aliaabdulahi/Kanye-ExFans-Express
